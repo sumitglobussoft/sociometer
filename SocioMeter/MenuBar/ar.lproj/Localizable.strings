@@ -1,0 +1,106 @@
+/* 
+  Localization string.strings
+  SocioMeter
+
+  Created by Sumit Ghosh on 13/01/16.
+  Copyright © 2016 Sumit Ghosh. All rights reserved.
+*/
+"DashBoard" = "لوحة الأداء";
+"Settings" = "إعدادات";
+"Achievements" = "إنجازات";
+
+"Screen Unlocks"= "عدد مرات فتح الجهاز";
+"Phone Usage" ="استخدام الجهاز";
+"Today" = "اليوم";
+"Weekly"="أسبوعي";
+"Monthly" = "شهري";
+"Addiction Score" = "الإدمان نتيجة";
+
+//--notificatio
+
+"Notify me after 10 Minutes of usage"="يخطر لي بعد 10 دقيقة من الاستخدام
+";
+
+"Notificaion and Pop-ups"="التنبيهات";
+"Show Smart Notification"="إظهار التنبيهات الذكية";
+"(notification about phone overuse)"="(تنبيهات حول الإفراط في استخدام الجهاز)";
+"Notify me after "="نبهني بعد";
+"Minutes of usages"="دقائق من الاستخدام";
+"(timed notification)"="(تنبيهات محددة بزمن)";
+"Notify me at unlock"="نبهني عند فتح الجهاز";
+"(notification to reduce screen unlock)"="(تنبيهات للحد من فتح الشاشة)";
+//--Sociometer
+"App Language"="لغة التطبيق";
+"(use Socimeter in other language)"="(استخدم Sociometer بلغة أخرى)";
+"Feedback"="ردود الفعل";
+"Update Details"="تحديث تفاصيل";
+"About"="حول";
+"Share SocioMeter"="حصة SocioMeter";
+//Achivements
+"Green Day"="اليوم الأخضر";
+"(Score 50 or less in day)"="(احصل على درجة استخدام 50 أو أقل خلال يوم واحد)";
+"Green Week"="الأسبوع الأخضر";
+"(Score 50 or less on all days of week)"="(احصل على درجة استخدام 50 أو أقل في كل أيام أسبوع واحد)";
+"Doing Great"="الاستخدام الأمثل";
+"(Get an average of 50 or less in the week)"="(احصل على معدل استخدام 50 أو أقل خلال أسبوع)";
+"Green Month"="الشهر الأخضر";
+"(Get an average of 50 or less in the month)"="(احصل على معدل استخدام 50 أو أقل خلال شهر)";
+"Phone Usages King"="ملك استخدام الهاتف";
+"(Get an average phone usages of 1 hour or less in week)"="(احصل على معدل مدة استخدام لساعة أو أقل خلال أسبوع واحد)";
+
+
+//---
+"Share Your Achievement"="مشاركة إنجازك";
+//--Green Zone 0-50--
+"I like to see you are in the Green Zone"="أحب أن أراك في المنطقة الخضراء";
+"Well done so far"="أحسنت حتى الآن";
+"Keep up the good work"="واصل هذا الأداء الرائع";
+"Good, you are on top of things. I like it"="ممتاز، أنت مسيطر على الوضع. يعجبني ذلك";
+"You are making Socio happy with this good performance"="بهذا الأداء الرائع فإنك تسعد Socio كثيراً.";
+"Aim to stay in the Green Zone today."="اهدف للبقاء في المنطقة الخضراء اليوم.";
+"Yup! Stay green."="ممتاز.. استمر في البقاء في الأخضر.";
+"You are awesome so far!"="أنت رائع حتى الآن!";
+"Have fewer unlocks to remain in the Green Zone."="قلل من فتح الشاشة لتبقى في المنطقة الخضراء.";
+"Use your phone less to keep in the Green Zone. "="قلل من استخدام الهاتف لتبقى في المنطقة الخضراء.";
+
+//---YellowZone 50-80----
+
+"Avoid unnecessary screen unlocks."="تجنب فتح الشاشة بدون سبب ضروري. ";
+"Avoid having the phone around you all the time."="تجنب إبقاء الهاتف إلى جانبك دائماً.";
+"OK, you started to worry me. Take it easy."="حسناً، لقد بدأ الأمر يقلقني.";
+"You are in the Yellow Zone now. Watch it. "="أنت في المنطقة الصفراء الآن. انتبه. ";
+"Use your phone only when you need it. "="استخدم هاتفك عند الحاجة فقط. ";
+"How about you leave your phone for like an hour?"="لمَ لا تجرب ترك هاتفك لساعة مثلاً؟";
+"Are you sure you need to use your phone this much?"="هل أنت متأكد أنك بحاجة لاستخدام هاتفك بهذا القدر؟";
+"How about you socialize with people face-to-face?"="لمَ لا تجرب مقابلة الأهل والأصدقاء وجهاً لوجه؟";
+"Make sure you don't go into the red zone!"="انتبه من الدخول في المنطقة الحمراء!";
+"OK, Socio is worried. "="حسناً، Socio قلِقٌ الآن. ";
+
+//---Red Zone 80+---
+
+"OK, Socio is really worried now."="حسناً، Socio قلِقٌ جداً الآن. ";
+"I'm afraid you are in the Red Zone now!"="أخشى أنك دخلت المنطقة الحمراء الآن!";
+"You used your phone a lot today. You want to put it away?"="أنت تبالغ باستخدام الهاتف اليوم. هلّا تركته؟";
+"Come on! I know you can do better than this."="هيّا الآن! ليس عليك أن تبالغ باستخدام الهاتف هكذا!";
+"Look how much time you spent on your phone today. "="انظر لمدة استخدامك للهاتف اليوم. ما رأيك؟";
+"Are you sure you need to use your phone this much?"="هل أنت متأكد أنك تحتاج استخدام الهاتف بهذا القدر؟";
+"You are carried away. Take it easy. "="تتم كنت بعيدا . خذ الأمور بسهولة .";
+"You are in the Red Zone. Isn't it time to put the phone away?"="أنت في المنطقة الحمراء. هل حان الوقت لترك الهاتف؟";
+"I feel sorry for your phone!"="أشعر بالأسى لهاتفك!";
+"You know Socio cares for you. Please put the phone away."="تعلم أن Socio تهمه مصلحتك. أرجوك اترك الهاتف. ";
+
+
+//--feedback View--
+
+"Feedback"="تعليقك أو سؤالك";
+"Cancel"="إلغاء";
+"Send"="أرسل";
+"Comment.."="تعليقك أو سؤالك..";
+"We’d love to hear from you. If you have any comment or suggestion please type it here and press Send"="نود سماع رأيك. إن كان لديك أي اقتراح أو تعليق، يرجى كتابته هنا، ثم اضغط على زر (أرسل).";
+
+"Ok"="موافق";
+
+"Restart Sociometer"="أعد تشغيل البرنامج";
+"Restart Sociometer for changes to take effect."="أعد تشغيل البرنامج لتنفيذ التغييرات";
+
+

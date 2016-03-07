@@ -1,0 +1,95 @@
+/* 
+  Localization string.strings
+  SocioMeter
+
+  Created by Sumit Ghosh on 13/01/16.
+  Copyright © 2016 Sumit Ghosh. All rights reserved.
+*/
+"DashBoard" = "DashBoard";
+"Settings" = "Settings";
+"Achievements" = "Achievements";
+
+
+
+"Screen Unlocks"= "Screen Unlocks";
+"Phone Usage" ="Phone Usage";
+"Today" = "Today";
+"Weekly"="Weekly";
+"Monthly" = "Monthly";
+"Addiction Score" = "Addiction Score";
+//--notificatio
+
+"Notify me after 10 Minutes of usage"="Notify me after 10 Minutes of usage";
+
+"Notificaion and Pop-ups"="Notificaion and Pop-ups";
+"Show Smart Notification"="Show Smart Notification";
+"(notification about phone overuse)"="(notification about phone overuse)";
+"Notify me after "="Notify me after";
+"Minutes of usages"="Minutes of usages";
+"(timed notification)"="(timed notification)";
+"Notify me at unlock"="Notify me at unlock";
+"(notification to reduce screen unlock)"="(notification to reduce screen unlock)";
+//--Sociometer
+"App Language"="App Language";
+"(use Socimeter in other language)"="(use Socimeter in other language)";
+"Feedback"="Feedback";
+"About"="About";
+"Share SocioMeter"="Share SocioMeter";
+//Achivements
+"Green Day"="Green Day";
+"(Score 50 or less in day)"="(Score 50 or less in day)";
+"Green Week"="Green Week";
+"(Score 50 or less on all days of week)"="(Score 50 or less on all days of week)";
+"Doing Great"="Doing Great";
+"(Get an average of 50 or less in the week)"="(Get an average of 50 or less in the week)";
+"Green Month"="Green Month";
+"(Get an average of 50 or less in the month)"="(Get an average of 50 or less in the month)";
+"Phone Usages King"="Phone Usages King";
+"(Get an average phone usages of 1 hour or less in week)"="(Get an average phone usages of 1 hour or less in week)";
+
+
+//---
+"Share Your Achievement"="Share Your Achievement";
+
+//--Green Zone 0-50--
+"I like to see you are in the Green Zone"="I like to see you are in the Green Zone";
+"Well done so far"="Well done so far";
+"Keep up the good work"="Keep up the good work";
+"Good, you are on top of things. I like it"="Good, you are on top of things. I like it";
+"You are making Socio happy with this good performance."="You are making Socio happy with this good performance.";
+"Aim to stay in the Green Zone today."="Aim to stay in the Green Zone today.";
+"Yup! Stay green."="Yup! Stay green.";
+"You are awesome so far!"="You are awesome so far!";
+"Have fewer unlocks to remain in the Green Zone."="Have fewer unlocks to remain in the Green Zone.";
+"Use your phone less to keep in the Green Zone."="Use your phone less to keep in the Green Zone.";
+
+//----greenZone 50-80----
+"Avoid unnecessary screen unlocks."="Avoid unnecessary screen unlocks.";
+
+"Avoid having the phone around you all the time."="Avoid having the phone around you all the time.";
+"OK, you started to worry me. Take it easy."="OK, you started to worry me. Take it easy.";
+"You are in the Yellow Zone now. Watch it."="You are in the Yellow Zone now. Watch it.";
+"Use your phone only when you need it."="Use your phone only when you need it.";
+"How about you leave your phone for like an hour?"="How about you leave your phone for like an hour?";
+"Are you sure you need to use your phone this much?"="Are you sure you need to use your phone this much?";
+"How about you socialize with people face-to-face?"="How about you socialize with people face-to-face?";
+"Make sure you don't go into the red zone!"="Make sure you don't go into the red zone!";
+"OK, Socio is worried."="OK, Socio is worried.";
+//----RedZone 80+--
+"OK, Socio is really worried now."="OK, Socio is really worried now.";
+"I'm afraid you are in the Red Zone now!"="I'm afraid you are in the Red Zone now!";
+"You used your phone a lot today. You want to put it away?"="You used your phone a lot today. You want to put it away?";
+"Come on! I know you can do better than this."="Come on! I know you can do better than this.";
+"Look how much time you spent on your phone today."="Look how much time you spent on your phone today.";
+"Are you sure you need to use your phone this much?"="Are you sure you need to use your phone this much?";
+"You are carried away. Take it easy."="You are carried away. Take it easy.";
+"You are in the Red Zone. Isn't it time to put the phone away?"="You are in the Red Zone. Isn't it time to put the phone away?";
+"I feel sorry for your phone!"="I feel sorry for your phone!";
+"You know Socio cares for you. Please put the phone away."="You know Socio cares for you. Please put the phone away.";
+//--feedBack
+"Feedback"="Feedback";
+"Cancel"="Cancel";
+"Send"="Send";
+//"Update Details"="Update Details";
+"Comment.."="Comment..";
+"We’d love to hear from you. If you have any comment or suggestion please type it here and press Send"="We’d love to hear from you. If you have any comment or suggestion please type it here and press Send";

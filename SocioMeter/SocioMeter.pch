@@ -1,0 +1,56 @@
+//
+//  SocioMeter.pch
+//  SocioMeter
+//
+//  Created by Sumit Ghosh on 26/12/15.
+//  Copyright © 2015 Sumit Ghosh. All rights reserved.
+//
+
+#ifndef SocioMeter_pch
+#define SocioMeter_pch
+#define red [UIColor redColor]
+//#define Screen_height [UIScreen mainScreen].bounds.size.height
+//#define Screen_width [UIScreen mainScreen].bounds.size.width
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* SocioMeter_pch */
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#define Screen_width ([[UIScreen mainScreen] bounds].size.width)
+#define Screen_height ([[UIScreen mainScreen] bounds].size.height)
+#define SCREEN_MAX_LENGTH (MAX(Screen_width, Screen_height))
+#define SCREEN_MIN_LENGTH (MIN(Screen_width, Screen_height))
+//Condtions for iPhone
+#define IS_IPHONE (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_IPHONE_4_OR_LESS (IS_IPHONE && SCREEN_MAX_LENGTH < 568.0)
+#define IS_IPHONE_5 (IS_IPHONE && SCREEN_MAX_LENGTH == 568.0)
+#define IS_IPHONE_6 (IS_IPHONE && SCREEN_MAX_LENGTH == 667.0)
+#define IS_IPHONE_6P (IS_IPHONE && SCREEN_MAX_LENGTH == 736.0)
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+//#define FavouriteTable @"UserFavourite"
+#define FourSquareClientId @"AAW4EKA51XRLLZEP33IVDK4TWVC1AN4MKBSFKFGR3K4LNNBQ"
+#define FourSquareClientSecretID @"PSD14TXEFT5CEHO41RES4410MIGH3UI3QQUWGCGVDENGSEU0"
+#define Bluecolor    [UIColor colorWithRed:(CGFloat)41/255 green:(CGFloat)67/255 blue:(CGFloat)161/255 alpha:1];
+#define Ggreen [UIColor colorWithRed:(CGFloat)8/255 green:(CGFloat)138/255 blue:(CGFloat)41/255 alpha:1];
+#define Yyellow [UIColor colorWithRed:(CGFloat)255/255 green:(CGFloat)194/255 blue:(CGFloat)0/255 alpha:1];
+#define RredColor [UIColor redColor];
+
+//#define strLab [[NSString alloc]init];
+#define PhoneUageDBDictionaryKey @"TotalPhoneUsage"
+#define TotalScreenLockDBDictionaryKey @"TotalScreenLock"
+#define AddictionScoreDBDictionaryKey @"DailyAdditionScore"
+#define lockValue @"lockCount"
+#define phUsagesTime @"usingTime"
+#define phUsagesMinute @"usingMinuteTime"
+#define SocioMeterDB @"SocioMeterDB"
+#define checkFirstTime @"CheckFirstTime"
+#define chrckSecondTime @"CheckSecondTime"
+#define getAddictionScore @"addictionScore"
+#define totalphUsagesInSecond @"phUsagesInSecond"
+#define removeScreen @"removeLaunchScreen"
+#define selectedDateOfBirth @"dateOfBirth"
+#endif
